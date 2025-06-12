@@ -1,9 +1,10 @@
 # exodus-stealer by finishedev
 
+npm init
 
-pip install -r requirements.txt
+npm install
 
-python main.py 
+node exodus.js
 
 
 # discord 971lover
